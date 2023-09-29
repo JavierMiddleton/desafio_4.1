@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  text-align: center;
+}
+.cardCss {
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  justify-self: flex-start;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
